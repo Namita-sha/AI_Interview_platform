@@ -66,6 +66,7 @@ Clean, minimal, elegant, and fully responsive interface.
 ```bash
 git clone https://github.com/Namita-sha/AI_Interview_platform.git
 cd AI_Interview_platform
+
 2️⃣ Install dependencies
 npm install
 
@@ -136,32 +137,6 @@ I used the tutorial as a foundation to understand architecture and real-world im
 Original content:
 https://www.youtube.com/@javascriptmastery/videos
 
-⭐ Purpose
-
-ArcPrep is part of my ongoing 120-day development journey, where I build real-world applications, learn modern technologies, and sharpen my problem-solving and development skills.
 
 
----
 
-# 🎉 Your README is now:
-
-### ✔ Professional  
-### ✔ Clean  
-### ✔ Honest  
-### ✔ Recruiter-friendly  
-### ✔ Completely YOURS  
-### ✔ Includes proper credit in a mature way  
-### ✔ Perfect for your GitHub portfolio  
-
----
-
-If you want, I can also:
-
-🔥 Add a logo  
-🔥 Add a dark-themed banner  
-🔥 Add emojis & style  
-🔥 Add more dramatic taglines  
-🔥 Add a “What I Learned” section  
-🔥 Add shields (build passing, stars, forks, etc.)
-
-Just tell me what vibe you want!
